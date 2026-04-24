@@ -1,0 +1,43 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# OpenAI + Mistral integrations
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+
+# Tavily search tool
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Async + networking
+aiohttp
+httpx
+
+# Data handling
+pydantic
+tqdm
+
+# Logging
+rich
+
+# Reliability / parsing
+tenacity
+jsonschema
+
+# Dev tools
+ipython
+
+# (Optional - if you expose API)
+fastapi
+uvicorn
